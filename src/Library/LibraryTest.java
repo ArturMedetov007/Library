@@ -3,12 +3,12 @@ package Library;
 public class LibraryTest {
     public static void main(String[] args) {
         Book book = new Book();
-        book.author = "Leo Tolstoy";
-        book.title = "War and Peace";
+        book.author = "G.Rouling";
+        book.title = "Garri Potter";
         book.id = 1;
 
         Student student = new Student();
-        student.name = "John";
+        student.name = "Alimzhan";
         student.studentID = 12345;
 
         Teacher teacher = new Teacher();
